@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://travelling-code-d.github.io/Top-Things-to-Do-in-Singapore/sitemap.xml
