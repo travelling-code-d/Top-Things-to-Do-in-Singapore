@@ -2,4 +2,38 @@ User-agent: *
 
 Allow: /
 
+# Sitemap
 Sitemap: https://travelling-code-d.github.io/Top-Things-to-Do-in-Singapore/sitemap.xml
+
+
+# AI Search & Assistant Crawlers
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
